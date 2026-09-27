@@ -32,13 +32,13 @@ We do not sell, rent or share your data with anyone else, and we do not show ads
 ## Storage and retention
 
 - The connector itself keeps no copy of your inputs, results or token after it answers a call. It writes no logs that contain them; its logs hold only the tool name, the number of results and timing.
-- The search runs store their inputs and results in your own Apify account, like any Actor run you start. They are kept for your Apify plan's data retention period (7 days for unnamed storages on the free plan at the time of writing) and you can delete them in Apify Console at any time. [REVIEW: confirm the retention period in Apify's current terms.]
+- The search runs store their inputs and results in your own Apify account, like any Actor run you start. They are kept for your Apify plan's data retention period (7 days for unnamed storages on the free plan at the time of writing) and you can delete them in Apify Console at any time.
 - As the Actor developer, we can see aggregate statistics that Apify gives developers (such as number of runs and users). We do not use them to identify you.
 - Emails you send to our support address are kept as long as needed to answer them, and at most 2 years.
 
 ## Your choices and rights
 
-You can stop using the connector at any time by removing it from your AI client, and revoke your Apify token in Apify Console. You can delete the stored runs in your Apify account. For any question about your data, or to ask us to delete support emails, write to us. [REVIEW: if users in the EU or UK are expected, check what else GDPR or UK GDPR requires here, for example the legal basis and the right to complain to a supervisory authority.]
+You can stop using the connector at any time by removing it from your AI client, and revoke your Apify token in Apify Console. You can delete the stored runs in your Apify account. For any question about your data, or to ask us to delete support emails, write to us. If you are in the EU or the UK, you can also complain to your data protection authority.
 
 ## Security
 
