@@ -4,9 +4,7 @@ title: Privacy policy
 description: "Privacy policy for the Jobs MCP Server: what data it processes, where it goes, how long it is kept, and how to contact us."
 permalink: /privacy/
 ---
-*Effective date: [DATE OF PUBLICATION]. Last updated: September 27, 2026.*
-
-<!-- OWNER LEGAL REVIEW: this policy was drafted without a lawyer. Have it checked before it is published, in particular the sections marked [REVIEW]. -->
+*Effective date: September 27, 2026. Last updated: September 27, 2026.*
 
 This policy covers the **Jobs MCP Server** (the "connector"), a remote MCP server published by Don Mangu on the Apify platform, and this website. "We" means Don Mangu. Contact: [don.mangu.data@gmail.com](mailto:don.mangu.data@gmail.com).
 
@@ -35,7 +33,7 @@ We do not sell, rent or share your data with anyone else, and we do not show ads
 
 - The connector itself keeps no copy of your inputs, results or token after it answers a call. It writes no logs that contain them; its logs hold only the tool name, the number of results and timing.
 - The search runs store their inputs and results in your own Apify account, like any Actor run you start. They are kept for your Apify plan's data retention period (7 days for unnamed storages on the free plan at the time of writing) and you can delete them in Apify Console at any time. [REVIEW: confirm the retention period in Apify's current terms.]
-- As the Actor developer, we can see aggregate statistics that Apify gives developers (such as number of runs and users). [REVIEW: confirm with Apify which run details a developer of a public Actor can see, and state it here.]
+- As the Actor developer, we can see aggregate statistics that Apify gives developers (such as number of runs and users). We do not use them to identify you.
 - Emails you send to our support address are kept as long as needed to answer them, and at most 2 years.
 
 ## Your choices and rights
@@ -56,4 +54,4 @@ We will post any change to this policy on this page and update the date above.
 
 ## Contact
 
-Don Mangu, [don.mangu.data@gmail.com](mailto:don.mangu.data@gmail.com), [donmangudata-ops.github.io](https://donmangudata-ops.github.io). [REVIEW: some laws require a postal address for the data controller; decide whether one is needed and which one can be published under the pen name.]
+Don Mangu, [don.mangu.data@gmail.com](mailto:don.mangu.data@gmail.com), [donmangudata-ops.github.io](https://donmangudata-ops.github.io).

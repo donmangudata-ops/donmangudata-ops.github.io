@@ -4,7 +4,7 @@ title: Jobs MCP Server
 description: "Documentation for the Jobs MCP Server: two read-only job tools for Claude and other AI agents, how to connect with your own Apify token, pricing, limits and support."
 permalink: /mcp/
 ---
-*Last updated: September 27, 2026. DRAFT: the server is not live yet. The server URL and the price below become final when the Actor is published on Apify.*
+*Last updated: September 27, 2026. The server is being set up on Apify and is not live yet; its exact URL will be confirmed on this page when it is.*
 
 The Jobs MCP Server is a remote MCP server that gives Claude and other AI agents two read-only tools for job data:
 
