@@ -1,0 +1,22 @@
+---
+layout: default
+title: Guides
+---
+<div class="home">
+  <p>{{ site.description }}</p>
+  {%- if site.posts.size > 0 -%}
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+      <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+      {%- if post.subtitle %}<p>{{ post.subtitle | escape }}</p>{% endif -%}
+      {%- if post.tags.size > 0 %}<p class="post-meta">{{ post.tags | join: " · " }}</p>{% endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- else -%}
+  <p>New guides are on the way.</p>
+  {%- endif -%}
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+</div>

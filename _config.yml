@@ -1,0 +1,42 @@
+# Jekyll site for GitHub Pages: https://donmangudata-ops.github.io
+# Build: GitHub Pages (Jekyll 3.10, minima 2.5). Local preview: bundle exec jekyll serve --unpublished
+title: Don Mangu
+description: >-
+  Practical guides on job board APIs, hiring signals and website data in Python,
+  with the free endpoints first and hosted Apify Actors where they save time.
+url: "https://donmangudata-ops.github.io"
+baseurl: ""
+author:
+  name: Don Mangu
+github_username: donmangudata-ops
+lang: en
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+
+permalink: /:title/
+show_excerpts: false
+future: false
+
+# Articles stay unpublished until the owner approves them (max 2 per day, see README.md).
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
