@@ -6,7 +6,7 @@ description: "Turn job postings into hiring signals for outbound: pull open role
 seo_title: "Hiring Signals for Sales: Score Accounts From Jobs"
 tags: ["sales", "lead-generation", "python", "automation", "apify"]
 permalink: /hiring-signals-for-sales/
-date: 2026-09-29 09:00:00 +0000
+date: 2026-09-29 00:00:00 +0000
 cadence_day: 3
 published: true
 ---

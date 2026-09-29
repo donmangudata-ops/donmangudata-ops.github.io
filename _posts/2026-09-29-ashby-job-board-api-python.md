@@ -6,7 +6,7 @@ description: "Use Ashby's public job posting API to pull open jobs and salary ra
 seo_title: "Ashby Job Board API: Jobs and Salaries in Python"
 tags: ["python", "api", "web-scraping", "apify", "recruitment"]
 permalink: /ashby-job-board-api-python/
-date: 2026-09-29 09:00:00 +0000
+date: 2026-09-29 00:00:00 +0000
 cadence_day: 3
 published: true
 ---
