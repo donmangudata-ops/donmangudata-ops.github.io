@@ -133,6 +133,13 @@ Greenhouse does not publish one for the Job Board API. Be polite: one request pe
 **Can I get jobs posted months ago that are still open?**
 Yes. The API returns every open job, whatever its age. `first_published` tells you how old it is.
 
+
+## Related guides
+
+- [Lever API Job Postings: Pull Open Jobs From Lever With Python](/lever-postings-api-python/)
+- [Ashby Job Board API: Read Open Jobs and Salary Ranges in Python](/ashby-job-board-api-python/)
+- [Workday Jobs API: Pull Open Jobs From Workday Career Sites](/workday-jobs-api-python/)
+
 ---
 
 *Greenhouse is a trademark of its owner. This article and the Actors are not affiliated with or endorsed by Greenhouse. The Actors read only jobs that companies publish on public boards, with no login.*
