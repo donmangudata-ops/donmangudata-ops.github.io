@@ -140,6 +140,13 @@ No. The Actor reads job postings only and returns no personal data.
 **How is this different from a signals platform?**
 You get the raw counts and job titles for your own list, at a per-account price, and you decide the scoring. Platforms bundle more sources and contact data.
 
+
+## Related guides
+
+- [Greenhouse Jobs API: Get Every Open Job From a Board in Python](/greenhouse-jobs-api-python/)
+- [Lever API Job Postings: Pull Open Jobs From Lever With Python](/lever-postings-api-python/)
+- [Ashby Job Board API: Read Open Jobs and Salary Ranges in Python](/ashby-job-board-api-python/)
+
 ---
 
 *This article and the Actor are not affiliated with or endorsed by Greenhouse, Lever, Ashby, Workday or any other job board. The Actor reads only jobs published on public careers pages, with no login.*
