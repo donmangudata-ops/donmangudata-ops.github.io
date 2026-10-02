@@ -159,6 +159,13 @@ Not for outsiders. Workday's documented APIs need credentials from the employer.
 **Can I get the recruiter's name?**
 No. Rows hold job data only, and contact details are removed from descriptions.
 
+
+## Related guides
+
+- [Greenhouse Jobs API: Get Every Open Job From a Board in Python](/greenhouse-jobs-api-python/)
+- [Lever API Job Postings: Pull Open Jobs From Lever With Python](/lever-postings-api-python/)
+- [Hiring Signals for Sales: Score Your Account List From Job Postings](/hiring-signals-for-sales/)
+
 ---
 
 *This article and the Actor are not affiliated with or endorsed by Workday, Inc. or any employer whose site it reads. Workday is a trademark of its owner.*
