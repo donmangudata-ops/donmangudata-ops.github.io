@@ -161,3 +161,8 @@ Keep the newest date or link you saw last time and drop older ones. With the Act
 
 **Does RSS Feed Reader need a login or API key for the feeds?**
 No. It reads public feeds. You need an Apify token to call the Actor.
+
+## Related guides
+
+- [Bulk MX Record Lookup in Python](/bulk-mx-record-lookup/)
+- [Tech Stack Lookup API: CMS, Ecommerce and Analytics for Any Website](/tech-stack-lookup-api-python/)
