@@ -17,6 +17,7 @@ CORS check, curl with an Origin header, 2026-10-02:
 Unknown slug returns 404 on all three. Lever's OPTIONS preflight also answered 200 with the same header (not needed, requests are simple GETs).
 Not tested here: Lever EU region (api.eu.lever.co), so EU-hosted Lever boards are not covered by this page.
 {% endcomment %}
+
 *Disclosure: I built the Apify Actor linked at the bottom of this page, and it is paid. This page was drafted with an AI assistant. The three job board endpoints were tested on October 2, 2026. The tool runs in your browser, sends nothing to my servers, and has no analytics or tracking.*
 
 Many companies host their careers page on a hosted applicant tracking system (ATS). Greenhouse, Lever and Ashby each publish the open jobs of a company board through a public JSON endpoint, with no login. This tool asks all three for the company slug you type and tells you which one answers.
