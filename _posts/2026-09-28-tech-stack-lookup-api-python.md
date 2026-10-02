@@ -137,6 +137,12 @@ Not directly. Send a list of candidate domains and filter the results by technol
 **Does it collect personal data?**
 No. It reads public homepages once per site and does not store cookie values or personal data.
 
+
+## Related guides
+
+- [Hiring Signals for Sales: Score Your Account List From Job Postings](/hiring-signals-for-sales/)
+- [Greenhouse Jobs API: Get Every Open Job From a Board in Python](/greenhouse-jobs-api-python/)
+
 ---
 
 *This article and the Actor are not affiliated with or endorsed by any company whose technology it detects. The fingerprint data is open source under GPL-3.0.*
