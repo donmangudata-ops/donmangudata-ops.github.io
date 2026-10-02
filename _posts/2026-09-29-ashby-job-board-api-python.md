@@ -152,6 +152,13 @@ Either you did not pass `includeCompensation=true`, or the company does not show
 **Are unlisted jobs included?**
 The API can return jobs with `isListed` set to false. Filter on it if you only want jobs shown on the public board. The Actor leaves unlisted jobs out.
 
+
+## Related guides
+
+- [Greenhouse Jobs API: Get Every Open Job From a Board in Python](/greenhouse-jobs-api-python/)
+- [Lever API Job Postings: Pull Open Jobs From Lever With Python](/lever-postings-api-python/)
+- [Workday Jobs API: Pull Open Jobs From Workday Career Sites](/workday-jobs-api-python/)
+
 ---
 
 *Ashby is a trademark of its owner. This article and the Actors are not affiliated with or endorsed by Ashby. The Actors read only jobs published on public boards, with no login.*
