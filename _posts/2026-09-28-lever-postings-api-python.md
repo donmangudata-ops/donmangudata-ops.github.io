@@ -139,6 +139,13 @@ The site name is wrong, the board is on the EU host, or the company does not use
 **How do I get the posting date?**
 `createdAt` is milliseconds since 1970. Divide by 1,000 and convert to a date.
 
+
+## Related guides
+
+- [Greenhouse Jobs API: Get Every Open Job From a Board in Python](/greenhouse-jobs-api-python/)
+- [Ashby Job Board API: Read Open Jobs and Salary Ranges in Python](/ashby-job-board-api-python/)
+- [Hiring Signals for Sales: Score Your Account List From Job Postings](/hiring-signals-for-sales/)
+
 ---
 
 *Lever is a trademark of its owner. This article and the Actors are not affiliated with or endorsed by Lever. The Actors read only published postings, with no login.*
