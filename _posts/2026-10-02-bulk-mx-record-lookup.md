@@ -151,3 +151,8 @@ Usually that it does not receive email. Check the A record and the domain's purp
 
 **Is a bulk MX lookup legal?**
 It reads public DNS records, the same ones every mail server reads when it sends mail. It does not contact the mail servers.
+
+## Related guides
+
+- [Tech Stack Lookup API: CMS, Ecommerce and Analytics for Any Website](/tech-stack-lookup-api-python/)
+- [Hiring Signals for Sales: Score Your Account List From Job Postings](/hiring-signals-for-sales/)
