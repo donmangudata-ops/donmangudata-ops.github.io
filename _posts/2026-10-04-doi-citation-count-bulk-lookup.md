@@ -166,5 +166,6 @@ Yes. The Actor accepts plain DOIs and doi.org links, and a script can strip the 
 
 ## Related guides
 
+- [DOI Citation Count Checker](/doi-citation-checker/), a free browser tool for a handful of DOIs with no script to run
 - [RSS to JSON API: Read Many Feeds in Python](/rss-to-json-api/)
 - [PERM Prevailing Wage Data by Employer](/perm-prevailing-wage-data-by-employer/)
