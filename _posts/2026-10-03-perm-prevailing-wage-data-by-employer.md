@@ -33,7 +33,7 @@ Download the disclosure spreadsheets from the Department of Labor's OFLC perform
 
 If you only need an occasional lookup, this is the better route. Do it once, save a cleaned file, and query that.
 
-## A hosted option: [H-1B & PERM Salary Data](https://apify.com/conserving_celerytop/h1b-perm-salary-data)
+## A hosted option: H-1B & PERM Salary Data
 
 [H-1B & PERM Salary Data](https://apify.com/conserving_celerytop/h1b-perm-salary-data) is an Apify Actor I built that reads those same Department of Labor files on each run, so new quarters appear when the department publishes them. It returns clean rows and converts wages to a yearly figure. Hourly is multiplied by 2,080, weekly by 52, bi-weekly by 26 and monthly by 12.
 
