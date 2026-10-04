@@ -16,7 +16,7 @@ Recruitee is a career-site and hiring platform used mostly by Dutch and other Eu
 
 ## Step 1: find the company subdomain
 
-The subdomain is the first part of the career site's host name. Some companies keep it on `{company}.recruitee.com` directly; others point a custom domain at it, such as `werkenbij.vandebron.nl`. For a custom domain, open any job page and look at the apply link or page source for `recruitee.com` — the subdomain in that link is the one the API uses.
+The subdomain is the first part of the career site's host name. Some companies keep it on `{company}.recruitee.com` directly; others point a custom domain at it, such as `werkenbij.vandebron.nl`. For a custom domain, open any job page and look at the apply link or page source for `recruitee.com`: the subdomain in that link is the one the API uses.
 
 ## Step 2: call the offers endpoint
 
