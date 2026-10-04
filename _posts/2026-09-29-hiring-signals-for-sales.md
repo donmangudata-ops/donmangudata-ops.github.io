@@ -14,7 +14,7 @@ published: true
 
 A company that opens three sales roles this month is about to change how it sells. One that posts its first data engineer is about to buy data tools. Job postings are one of the few buying signals a company publishes on purpose, with dates, in public.
 
-Most signal tools sell that data inside a larger platform. If you already have an account list, you can build the core of it yourself: read each account's careers page, count what they are hiring for, and flag the changes. This guide does that in Python.
+Most signal tools sell that data inside a larger platform. If you already have an account list, you can build the core of it yourself: read each account's careers page, count what they are hiring for, and flag the changes. This guide does that in Python; for a hosted, ready-to-run version of this scoring workflow, see the [Company Hiring Signals](https://apify.com/conserving_celerytop/company-hiring-signals) Actor.
 
 ## Which hiring signals matter
 
