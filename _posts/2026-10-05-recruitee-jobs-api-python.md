@@ -6,7 +6,7 @@ description: "Use Recruitee's public offers API to pull open jobs and salary ran
 seo_title: "Recruitee Jobs API: Jobs and Salaries in Python"
 tags: ["python", "api", "web-scraping", "apify", "recruitment"]
 permalink: /recruitee-jobs-api-python/
-date: 2026-10-05 00:00:00 +0000
+date: 2026-10-04 21:00:00 +0000
 cadence_day: 7
 published: true
 ---
