@@ -6,7 +6,7 @@ description: "Use SmartRecruiters' public Postings API to pull open jobs from an
 seo_title: "SmartRecruiters Postings API in Python"
 tags: ["python", "api", "web-scraping", "apify", "recruitment"]
 permalink: /smartrecruiters-jobs-api-python/
-date: 2026-10-05 00:00:00 +0000
+date: 2026-10-04 21:00:00 +0000
 cadence_day: 8
 published: true
 ---
