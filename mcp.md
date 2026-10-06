@@ -4,7 +4,7 @@ title: Jobs MCP Server
 description: "Documentation for the Jobs MCP Server: two read-only job tools for Claude and other AI agents, how to connect with your own Apify token, pricing, limits and support."
 permalink: /mcp/
 ---
-*Last updated: September 27, 2026. The server is being set up on Apify and is not live yet; its exact URL will be confirmed on this page when it is.*
+*Last updated: October 6, 2026. The server is live on Apify as the Actor [Jobs MCP Server](https://apify.com/conserving_celerytop/jobs-mcp-server).*
 
 The Jobs MCP Server is a remote MCP server that gives Claude and other AI agents two read-only tools for job data:
 
@@ -54,7 +54,7 @@ Both tools are annotated as read-only. They start searches in your Apify account
 ## How to connect
 
 1. Create a free Apify account at [apify.com](https://apify.com) and copy your API token from [Settings, API & Integrations](https://console.apify.com/settings/integrations).
-2. The server URL is `https://conserving-celerytop--jobs-mcp-server.apify.actor/mcp` (to be confirmed when the server is live; the Actor's **Endpoints** tab on Apify shows the exact URL).
+2. The server URL is `https://conserving-celerytop--jobs-mcp-server.apify.actor/mcp` (the Actor's **Endpoints** tab on Apify shows the same URL).
 3. Add it to your client:
    - **Claude (claude.ai, Claude Desktop):** Settings, Connectors, **Add custom connector**. Paste the URL. In **Advanced settings** choose **No sign-in**, and under **Request headers** add `authorization` with the value `Bearer <your Apify token>`. Request headers are in beta in Claude; if you do not see them, use Claude Code or another client for now.
    - **Claude Code:** `claude mcp add --transport http jobs <server URL> --header "Authorization: Bearer <your Apify token>"`
