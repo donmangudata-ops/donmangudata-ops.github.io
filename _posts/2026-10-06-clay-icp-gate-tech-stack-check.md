@@ -6,7 +6,7 @@ description: "Add a cheap tech stack and DNS check to a Clay table with an Apify
 seo_title: "Clay ICP Gate: Tech Stack Check Before Enrichment"
 tags: ["clay", "apify", "api", "lead-enrichment", "tech-stack"]
 permalink: /clay-icp-gate-tech-stack-check/
-date: 2026-10-06 06:30:00 +0000
+date: 2026-10-06 05:50:00 +0000
 published: true
 ---
 Expensive lookups should not run on every row. Any row that does not fit your ICP only adds cost. A gate is a cheap check that runs first and decides which rows get the paid steps.
